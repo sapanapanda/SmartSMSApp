@@ -50,12 +50,6 @@ Toolbar toolbar;
                     new String[]{Manifest.permission.READ_CONTACTS},
                     1);
 
-
-
-
-
-
-
     }
 
     @Override
